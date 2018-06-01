@@ -1,12 +1,11 @@
-# TestDemo
- 
+
 
 
 ```
 本文的目的是通过简单的几句命令行，实现自动编译，打包并上传到蒲公英分发给测试人员使用，或者上传到App Store简化上线发布的流程。
 ```
 ### 在执行脚本之前需要做的三件事
-（如果之前安装过rvm、ruby可直接跳过1，2步，直接进行第三步即可）
+（如果之前安装过rvm、ruby可直接跳过1，2步，直接进行3,4步即可）
 #### 1.安装rvm
 
 ```
@@ -48,9 +47,12 @@ rvm是一个便捷的多版本ruby环境的管理和切换工具 官网：https:
 #### 4.开始做关于脚本的事情了
 
 ```
-(1).下载脚本
-脚本地址为：
+(1).下载脚本scripts
+脚本地址为：https://github.com/wangxj4268/TestDemo.git
+```
+![image](http://a2.qpic.cn/psb?/V10Ra4TS1frb6f/S*pDchcQbC7Ck3Ik0VIalhp2DziwNSRCjrYckrIckjk!/b/dOkAAAAAAAAA&ek=1&kp=1&pt=0&bo=NgMmAgAAAAADFyM!&tl=1&vuin=2540942304&tm=1527818400&sce=60-2-2&rf=viewer_4)
 
+```
 (2).将脚本拖入工程目录下
 脚本路径：/Users/xxx/Desktop/项目名称/scripts
 ```
