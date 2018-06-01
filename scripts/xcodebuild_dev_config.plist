@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>teamID</key>
+	<string>请填写你开发者账号对应的teamID</string>
+	<key>method</key>
+	<string>请填写需要打包的模式（app-store、ad-hoc、enterprise、development选一个）</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>请填写你项目的Build Id</key>
+		<string>请填写你打包模式下对应的profile证书名称</string>
+	</dict>
+</dict>
+</plist>
